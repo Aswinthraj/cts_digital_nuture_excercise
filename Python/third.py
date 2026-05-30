@@ -1,0 +1,1 @@
+print("Install from VS code")
