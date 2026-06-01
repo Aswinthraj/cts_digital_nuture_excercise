@@ -4,5 +4,5 @@ def add(num1,num2):
         return
     
     return num1+num2
-result=add(5,7)
+result=add(5,3)
 print(f"Sum : {result}")
